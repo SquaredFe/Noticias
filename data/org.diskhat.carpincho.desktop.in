@@ -1,0 +1,8 @@
+	[Desktop Entry]
+Name=noticias
+Exec=noticias
+Icon=org.diskhat.carpincho
+Terminal=true
+Type=Application
+Categories=GTK;
+StartupNotify=true

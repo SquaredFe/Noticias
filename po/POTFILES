@@ -1,0 +1,6 @@
+data/org.diskhat.carpincho.desktop.in
+data/org.diskhat.carpincho.appdata.xml.in
+data/org.diskhat.carpincho.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
